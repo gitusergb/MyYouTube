@@ -4,7 +4,8 @@
 
 ---
 
-![Netlify Link] (https://roaring-nasturtium-35c702.netlify.app/)
+[Netlify Link] (https://roaring-nasturtium-35c702.netlify.app/)
+
 ---
 
 - This web application is a clone of YouTube, built using React JS and Material UI. 
@@ -28,8 +29,8 @@
 
 ## Installation
 
-1. Clone the repository: `git clone [repository-url]`
-2. Navigate to the project directory: `cd youtube-clone`
+1. Clone the repository: `git clone [https://github.com/gitusergb/MyYouTube.git]`
+2. Navigate to the project directory: `cd my_youtube`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 
