@@ -4,7 +4,7 @@
 
 ---
 
-[Netlify Link] (https://roaring-nasturtium-35c702.netlify.app/)
+[Netlify Link](https://roaring-nasturtium-35c702.netlify.app/)
 
 ---
 
@@ -62,7 +62,7 @@ Feel free to customize this README file further based on your project's specific
 ---
 
 
-## Contributor: https://github.com/gitusergb
+## Contributor: [Gauri Bidwai](https://github.com/gitusergb)
 
 ### Thank you !
 
